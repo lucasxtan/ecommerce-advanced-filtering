@@ -1,12 +1,10 @@
 
 import './Products.css';
-import Card from '../components/Card';
 
-function Products() {
+function Products({result}) {
     return <>
         <section className="card-container">
-            <Card/>
-            
+            {result}
         </section>
 
     </>
