@@ -7,10 +7,14 @@
 }
 
 .card {
+    width: 17rem;
     margin: 20px;
     border: 2px solid #ededed;
     padding: 20px;
     cursor: pointer;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
 }
 
 .card-img {
@@ -38,7 +42,7 @@
 
 .card-price {
     display: flex;
-    justify-content: space-around;
+    justify-content: left;
     align-items: center;
 }
 
