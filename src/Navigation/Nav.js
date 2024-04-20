@@ -4,13 +4,15 @@ import {AiOutlineShoppingCart, AiOutlineUserAdd} from 'react-icons/ai';
 
 
 
-function Nav() {
+function Nav({handleInputChange, query}) {
     return <nav>
         <div className="nav-container">
             <input
                 type="text"
                 className="search-input"
                 placeholder="Search for shoes"
+                onChange={handleInputChange}
+                value={query}
             />
         </div>
 
