@@ -7,8 +7,6 @@ import Colors from './Colors/Colors';
 
 
 function Sidebar({ handleChange }) {
-    console.log('handleChange', handleChange)
-
     return (
         <>
             <section className="sidebar">
