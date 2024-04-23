@@ -36,8 +36,8 @@ const data = [
     category: "sneakers",
   },
   {
-    img: "https://m.media-amazon.com/images/I/71oEKkghg-L._AC_UX575_.jpg",
-    title: "Nike Running Shoe",
+    img: "https://m.media-amazon.com/images/I/71Xj-8wAA+L._AC_SX695_.jpg",
+    title: "Adidas Originals Mens OZELIA Sneakers",
     star: <AiFillStar className="ratings-star" />,
     reviews: "(123 reviews)",
     prevPrice: "$350",
@@ -48,7 +48,7 @@ const data = [
   },
   {
     img: "https://m.media-amazon.com/images/I/41M54ztS6IL._AC_SY625._SX._UX._SY._UY_.jpg",
-    title: "Flat Slip On Pumps",
+    title: "Vans Flat Slip On Pumps",
     star: <AiFillStar className="ratings-star" />,
     reviews: "(123 reviews)",
     prevPrice: "$350",
@@ -58,20 +58,20 @@ const data = [
     category: "flats",
   },
   {
-    img: "https://m.media-amazon.com/images/I/71zKuNICJAL._AC_UX625_.jpg",
-    title: "Knit Ballet Flat",
+    img: "https://m.media-amazon.com/images/I/51ERefHsmpL._AC_SY695_.jpg",
+    title: "Adidas Mens Running Running Shoes",
     star: <AiFillStar className="ratings-star" />,
     reviews: "(123 reviews)",
     prevPrice: "$350",
     newPrice: "50",
     company: "Adidas",
     color: "black",
-    category: "flats",
+    category: "sneakers",
   },
 
   {
     img: "https://m.media-amazon.com/images/I/61V9APfz97L._AC_UY695_.jpg",
-    title: "Loafer Flats",
+    title: "Vans Loafer Flats",
     star: <AiFillStar className="ratings-star" />,
     reviews: "(123 reviews)",
     prevPrice: "$350",
@@ -94,8 +94,8 @@ const data = [
   },
 
   {
-    img: "https://m.media-amazon.com/images/I/61-cBsLhJHL._AC_UY695_.jpg",
-    title: "Nike Men's Sneaker",
+    img: "https://m.media-amazon.com/images/I/81djS7G90wL._AC_SX695_.jpg",
+    title: "Adidas Unisex-Child RapidaRun El Running Shoe ",
     star: <AiFillStar className="ratings-star" />,
     reviews: "(123 reviews)",
     prevPrice: "$350",
@@ -118,7 +118,7 @@ const data = [
   },
   {
     img: "https://m.media-amazon.com/images/I/71E75yRwCDL._AC_UY575_.jpg",
-    title: "Pacer Future Sneaker",
+    title: "Puma Pacer Future Sneaker",
     star: <AiFillStar className="ratings-star" />,
     reviews: "(123 reviews)",
     prevPrice: "$350",
@@ -129,7 +129,7 @@ const data = [
   },
   {
     img: "https://m.media-amazon.com/images/I/71jeoX0rMBL._AC_UX575_.jpg",
-    title: "Unisex-Adult Super",
+    title: "Puma Unisex-Adult Super",
     star: <AiFillStar className="ratings-star" />,
     reviews: "(123 reviews)",
     prevPrice: "$350",
@@ -140,7 +140,7 @@ const data = [
   },
   {
     img: "https://m.media-amazon.com/images/I/61TM6Q9dvxL._AC_UX575_.jpg",
-    title: "Roma Basic Sneaker",
+    title: "Puma Roma Basic Sneaker",
     star: <AiFillStar className="ratings-star" />,
     reviews: "(123 reviews)",
     prevPrice: "$350",
@@ -151,7 +151,7 @@ const data = [
   },
   {
     img: "https://m.media-amazon.com/images/I/7128-af7joL._AC_UY575_.jpg",
-    title: "Pacer Future Doubleknit",
+    title: "Puma Pacer Future Doubleknit",
     star: <AiFillStar className="ratings-star" />,
     reviews: "(123 reviews)",
     prevPrice: "$350",
@@ -163,7 +163,7 @@ const data = [
 
   {
     img: "https://m.media-amazon.com/images/I/81xXDjojYKS._AC_UX575_.jpg",
-    title: "Fusion Evo Golf Shoe",
+    title: "Puma Fusion Evo Golf Shoe",
     star: <AiFillStar className="ratings-star" />,
     reviews: "(123 reviews)",
     prevPrice: "$350",
@@ -173,8 +173,8 @@ const data = [
     category: "sneakers",
   },
   {
-    img: "https://m.media-amazon.com/images/I/719gdz8lsTS._AC_UX575_.jpg",
-    title: "Rainbow Chex Skate",
+    img: "https://m.media-amazon.com/images/I/51Q+4UCO+gL._AC_SY695_.jpg",
+    title: "Vans Women's Low-Top Sneakers, Rose",
     star: <AiFillStar className="ratings-star" />,
     reviews: "(123 reviews)",
     prevPrice: "$350",
@@ -185,14 +185,14 @@ const data = [
   },
   {
     img: "https://m.media-amazon.com/images/I/71gpFHJlnoL._AC_UX575_.jpg",
-    title: "Low-Top Trainers",
+    title: "Vans Low-Top Trainers",
     star: <AiFillStar className="ratings-star" />,
     reviews: "(123 reviews)",
     prevPrice: "$350",
     newPrice: "100",
     company: "Vans",
     color: "white",
-    category: "sandals",
+    category: "flats",
   },
   {
     img: "https://m.media-amazon.com/images/I/71pf7VFs9CL._AC_UX575_.jpg",
@@ -203,22 +203,22 @@ const data = [
     newPrice: "100",
     company: "Vans",
     color: "blue",
-    category: "sandals",
+    category: "flats",
   },
   {
     img: "https://m.media-amazon.com/images/I/61N4GyWcHPL._AC_UY575_.jpg",
-    title: "Classic Bandana Sneakers",
+    title: "Nike Classic Bandana Sneakers",
     star: <AiFillStar className="ratings-star" />,
     reviews: "(123 reviews)",
     prevPrice: "$350",
     newPrice: "50",
     company: "Nike",
     color: "black",
-    category: "sandals",
+    category: "flats",
   },
   {
     img: "https://m.media-amazon.com/images/I/61bncQ44yML._AC_UX695_.jpg",
-    title: "Chunky High Heel",
+    title: "Vans Chunky High Heel",
     star: <AiFillStar className="ratings-star" />,
     reviews: "(123 reviews)",
     prevPrice: "$350",
@@ -229,7 +229,7 @@ const data = [
   },
   {
     img: "https://m.media-amazon.com/images/I/71czu7WgGuL._AC_UY695_.jpg",
-    title: "Slip On Stiletto High Heel",
+    title: "Puma Slip On Stiletto High Heel",
     star: <AiFillStar className="ratings-star" />,
     reviews: "(123 reviews)",
     prevPrice: "$350",
@@ -240,7 +240,7 @@ const data = [
   },
   {
     img: "https://m.media-amazon.com/images/I/61men05KRxL._AC_UY625_.jpg",
-    title: "DREAM PAIRS Court Shoes",
+    title: "Nike DREAM PAIRS Court Shoes",
     star: <AiFillStar className="ratings-star" />,
     reviews: "(123 reviews)",
     prevPrice: "$350",
@@ -263,7 +263,7 @@ const data = [
 
   {
     img: "https://m.media-amazon.com/images/I/51PGWTXgf-L._AC_UY625_.jpg",
-    title: "Low Mid Block Heels",
+    title: "Nike Low Mid Block Heels",
     star: <AiFillStar className="ratings-star" />,
     reviews: "(123 reviews)",
     prevPrice: "$350",
@@ -273,8 +273,8 @@ const data = [
     category: "heels",
   },
   {
-    img: "https://m.media-amazon.com/images/I/616sA5XUKtL._AC_UY675_.jpg",
-    title: "Chunky High Heel",
+    img: "https://m.media-amazon.com/images/I/51rX63cPFhL._AC_SY695_.jpg",
+    title: "Adidas Chunky High Heel",
     star: <AiFillStar className="ratings-star" />,
     reviews: "(123 reviews)",
     prevPrice: "$350",
@@ -285,7 +285,7 @@ const data = [
   },
   {
     img: "https://m.media-amazon.com/images/I/71h5+MbEK7L._AC_UY625_.jpg",
-    title: "Amore Fashion Stilettos",
+    title: "Adidas Amore Fashion Stilettos",
     star: <AiFillStar className="ratings-star" />,
     reviews: "(123 reviews)",
     prevPrice: "$350",
@@ -296,7 +296,7 @@ const data = [
   },
   {
     img: "https://m.media-amazon.com/images/I/61uw5RDxKQL._AC_UY625_.jpg",
-    title: "Bridal Sandals Glitter",
+    title: "Adidas Bridal Sandals Glitter",
     star: <AiFillStar className="ratings-star" />,
     reviews: "(123 reviews)",
     prevPrice: "$350",
@@ -307,14 +307,14 @@ const data = [
   },
   {
     img: "https://m.media-amazon.com/images/I/71yhoZP0l6L._AC_UY695_.jpg",
-    title: "Wedding Prom Bridal",
+    title: "Adidas Wedding Prom Bridal",
     star: <AiFillStar className="ratings-star" />,
     reviews: "(123 reviews)",
     prevPrice: "$350",
     newPrice: "50",
     company: "Adidas",
     color: "black",
-    category: "flats",
+    category: "heels",
   },
 ];
 
