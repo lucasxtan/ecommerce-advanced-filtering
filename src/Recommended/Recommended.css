@@ -21,3 +21,11 @@
     color: #323232;
     cursor: pointer;
 }
+
+.btns:hover{
+    background-color: #c4c2c2;
+}
+
+.btns.active{
+    background-color: #2196f3;
+}
