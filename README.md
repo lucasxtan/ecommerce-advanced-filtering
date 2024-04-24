@@ -1,6 +1,6 @@
 # Ecommerce Advanced Filtering
 
-Ecommerce Advanced Filtering is a multi-filtering project that allows you to filter by product category, price, color, brand, and search input for an ecommerce website.
+Ecommerce Advanced Filtering is a multi-filtering project that allows you to filter by product category, price, color, brand, and search input for an ecommerce website or all those filters at once.
 
 ## Category Filtering
 You can filter by shoe category here.
